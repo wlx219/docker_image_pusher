@@ -4,5 +4,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 onething1/wxedge:latest
 haroldli/xiaoya-tvbox:latest
+linuxserver/webtop:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
