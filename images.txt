@@ -2,7 +2,6 @@ nginx
 #支持私库
 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
-linuxserver/webtop:latest
 haroldli/xiaoya-tvbox:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
